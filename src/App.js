@@ -13,7 +13,7 @@ function App() {
   return (
     <Provider store={store}>
         <div className="App">
-       <h3>react redux</h3>
+       <h3>react redux practise</h3>
       <HooksRedux></HooksRedux>
       <hr></hr>
        <CakeContainer></CakeContainer> 
